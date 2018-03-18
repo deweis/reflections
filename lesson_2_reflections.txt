@@ -9,16 +9,17 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
---> I can double check which files will be put in the next commit (I.e. with git diff --staged)
+>> I can double check which files will be put in the next commit (I.e. with git diff --staged)
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
---> Especially when experimenting with new features. The branch helps to keep the production version on master clean.
+>> Especially when experimenting with new features. The branch helps to keep the production version on master clean.
 
 How do the diagrams help you visualize the branch structure?
---> the tree makes it more easy to see the structure.
+>> the tree makes it more easy to see the structure.
 
-What is the result of merging two branches together? Why do we represent it in
+What is the result of merging two branches together?
+>> Why do we represent it in
 the diagram the way we do?
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
