@@ -21,6 +21,6 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 >> the commit histories will be aligned and the new commit will have two parents.
 
-
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+>> the semi-automatism helps in matters of time compared to always doing merges manually. So, what can be automatised should be automatised...
